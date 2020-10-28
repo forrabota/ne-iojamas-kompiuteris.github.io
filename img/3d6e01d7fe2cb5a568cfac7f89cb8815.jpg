@@ -1,0 +1,2295 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="shortcut icon" href="https://www.alio.lt/favicon.ico" type="image/x-icon" />
+    
+            <link rel="stylesheet" type="text/css" href="https://www.alio.lt/pub/css/main.font.css?v=02071041" />
+        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <script>
+    var isNB = true;
+    var dataLayer = [];
+    var win_iw = window.innerWidth;
+
+
+    function ga_track(param1, param2, param3, param4)
+    {
+        if(typeof param4 == "undefined")
+        {
+            param4 = false;
+        }
+
+        if(typeof param3 == "undefined")
+        {
+            param3 = 1;
+        }
+
+        if(typeof param2 == "undefined")
+        {
+            param2 = "action";
+        }
+
+        if(typeof param1 == "undefined")
+        {
+            param1 = "category";
+        }
+
+        if(param4)
+        {
+            //eventInteraction - not interactional , jeigu true ( tai neitakoja bounce rate ir t.t. )
+            //jeigu eventas skaitomas kaip kazkoks reiksmingas veiksmas, tada reikia deti FALSE , tokiu atveju bounce rate bus 0
+            dataLayer.push({
+                'event':'GAevent',
+                'eventCategory': param1,
+                'eventAction': param2,
+                'eventLabel': param3,
+                'eventInteraction': true
+            });
+        }
+        else
+            dataLayer.push({
+                'event':'GAevent',
+                'eventCategory': param1,
+                'eventAction': param2,
+                'eventLabel': param3,
+                'eventInteraction': false
+            });
+    }
+
+    </script>
+
+
+            <meta name="cXenseParse:title" content="Nemokami skelbimai | Alio.lt"/>
+        <title>Nemokami skelbimai | Alio.lt</title>
+        <meta property="og:title" content="Nemokami skelbimai | Alio.lt" />
+            <meta name="description" content="Nemokami skelbimai - butai, namai, sklypai, automobiliai, motociklai, darbas, kompiuteriai, pažintys, &scaron;unys." />
+        <meta name="cXenseParse:description" content="Nemokami skelbimai - butai, namai, sklypai, automobiliai, motociklai, darbas, kompiuteriai, pažintys, &scaron;unys. "/>
+        <meta property="og:description" content="Nemokami skelbimai - butai, namai, sklypai, automobiliai, motociklai, darbas, kompiuteriai, pažintys, &scaron;unys." />
+            <meta itemprop="image" content="https://g3.acdn.lt/img/alio_og.png" />
+        <meta property="og:image" content="https://g3.acdn.lt/img/alio_og.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="607" />
+            <meta name="cXenseParse:url" content="https://www.alio.lt/" />
+        <meta property="og:url" content="https://www.alio.lt/" />
+        <link rel="canonical" href="https://www.alio.lt/" />
+            <meta property="fb:app_id" content="214706988697457" />
+    <script src="https://g4.acdn.lt/js/jquery-3.4.1.js"></script>    <meta name="cXenseParse:pageclass" content="frontpage"/>
+    <link rel="stylesheet" type="text/css" href="https://g3.acdn.lt/css/csstitle.php?1336310939" />
+
+    <link rel="dns-prefetch" href="https://g1.acdn.lt" />
+    <link rel="dns-prefetch" href="https://g2.acdn.lt" />
+    <link rel="dns-prefetch" href="https://g3.acdn.lt" />
+    <link rel="dns-prefetch" href="https://g4.acdn.lt" />
+
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="27ca612f-6c59-4ca6-b3b9-3d6ef3cf28a5" data-framework="IAB" type="text/javascript"></script>
+
+</head>
+
+<body id="body">
+
+
+
+
+  <div id="wallpaper"></div>
+
+
+    <div id="main-content-header">
+      
+
+
+      <div id="topMenu_ubg"></div>
+<div id="topMenu_bg_h"></div>
+<div id="header_m_menu">
+  <div id="header_m_menu_c" class="clearfix">
+
+  <div id="logo_mob_b">
+    <a id="logo_mob_placement_b" href="https://www.alio.lt/" title="Nemokami skelbimai">
+      <img src="https://g4.acdn.lt/img/svg/logo.svg"      alt="Alio.lt nemokami skelbimai" height="45" width="125" />
+    </a>
+  </div>
+
+  <div id="mobmenu_h_b" class="noselect ">
+    Meniu
+  </div>
+
+  <div class="mobmspacer"></div>
+
+  <a id="fav_mb_m_b"  href="https://www.alio.lt/patike_skelbimai.html">
+    Įsiminti
+      </a>
+
+  <div class="mobmspacer"></div>
+
+  <a id="addnew_mb_m_b"       class="eventView"       data-id="header_line_b"       data-name="Ideti skelbima mygtukas"       data-creation="+ Dėti"       data-pos="mobile header"       href="https://www.alio.lt/pasirinkite_kategorija.html">
+    Įdėk
+  </a>
+
+</div>
+
+  <div id="header_r_side_b" class="clearfix">
+
+    <div id="header_m_menu_b" class="clearfix">
+      <div id="logo_n_placement_b">
+        <a id="logo_n_placement" href="https://www.alio.lt/" title="Nemokami skelbimai">
+          <img src="https://g3.acdn.lt/img/svg/logo_no_t_n.svg"
+          alt="Alio.lt nemokami skelbimai" width="136" height="49"/>
+        </a>
+      </div>
+
+      <div id="logo_n_t_b">
+        <a id="logo_n_placement" href="https://www.alio.lt/" title="Nemokami skelbimai">
+          Nemokami <br>skelbimai
+        </a>
+      </div>
+
+      <div id="topMenu">
+    
+<ul class="user_menu_small" id="user_menu_type">
+    <div id="action-new"><a href="https://www.alio.lt/akcijos_vartotojams.html"><i class="fal fa-percent"></i> Išskirtiniai pasiūlymai</a></div>
+    <li id="user_profile_b" class="noselect">
+        <a class="eventView " data-id="header_line_a" data-name="Virsutinis meniu" data-creation="Prisijunk" data-pos="3" rel="nofollow" href="https://www.alio.lt/prisijungimas.html">Prisijunk/Užsiregistruok</a>
+    </li>
+    <li class="showmobile" id="createnew_b_i">
+        <a class="eventView " data-id="header_line_a" data-name="Virsutinis meniu" data-creation="Įdėti skelbimą" data-pos="1" rel="nofollow" href="https://www.alio.lt/pasirinkite_kategorija.html">Įdėti skelbimą</a>
+    </li>
+    <li id="edita_b_i">
+        <a class="first eventView" data-id="header_line_a" data-name="Virsutinis meniu" data-creation="Redaguoti skelbimą" data-pos="2" rel="nofollow" href="https://www.alio.lt/redaguoti_skelbimai.html">Redaguoti skelbimą</a>
+    </li>
+    <li id="fav_b_i">
+        <a rel="nofollow" class="eventView " data-id="header_line_a" data-name="Virsutinis meniu" data-creation="Pažymėti" data-pos="5" href="https://www.alio.lt/patike_skelbimai.html">
+            Pažymėti <span class="highlight" id="favoritesCount_b">(0)</span>
+        </a>
+    </li>
+    <li id="savs_b_i">
+        <a rel="nofollow" class="eventView " data-id="header_line_a" data-name="Virsutinis meniu" data-creation="Išsaugotų paieškų" data-pos="6" href="https://www.alio.lt/public/savedsearches/savedSearchesList.html">Išsaugotos paieškos <span class="highlight">(0)</span></a>
+    </li>
+</ul></div>
+    </div>
+
+
+    <div id="header_line_b">
+      <div id="header_ms_b" class="loadHelperClass" >
+        <form class="clearfix" action="https://www.alio.lt/paieska/"         method="get" id="ts_form">
+
+          <div id="search_mh_b" class="clearfix">
+	<div id="ts_query_b_b">
+		<div id="ts_query_b">
+			<i id="search_icon"></i>
+			<input type="search" class="text eventView"
+                   data-id="header_line_b"
+                   data-name="Paieskos blokas"
+                   data-creation="Tekstas"
+                   data-pos="1"
+                   id="ts_query" name="ts_query" value="" placeholder="Ieškok tarp 477185 skelbimų" />
+			<i id="ts_delete_icon" class="fa fa-times"></i>
+		</div>
+	</div>
+
+
+	<button id="ts_submit_b" class="button_n eventView"
+            data-id="header_line_b"
+            data-name="Paieskos blokas"
+            data-creation="Submit"
+            data-pos="4"
+            type="submit">
+		<i></i>
+	</button>
+
+
+        <div id="ts_city_b">
+            
+						
+                        <div id="ts_city_selector" class="eventView"
+                 data-id="header_line_b"
+                 data-name="Paieskos blokas"
+                 data-creation="Miestas"
+                 data-pos="2_desktop">
+                    <span>Visi miestai</span>
+                    <i class="city_delete_icon fa fa-angle-down"></i>
+            </div>
+            <div id="ts_city_selector_m"
+                 class="eventView"
+                 data-id="header_line_b"
+                 data-name="Paieskos blokas"
+                 data-creation="Miestas"
+                 data-pos="2_mobile"
+                 data-link="https://www.alio.lt/public/textSearch/searchFilterCity.html?pirmas=1">
+                    <span>Visi miestai</span>
+                    <i class="city_delete_icon fa fa-angle-down"></i>
+            </div>
+                        <div id="ts_city_list" data-link="https://www.alio.lt/public/index/topCitiesList.html">
+                <div id="ts_city_list_placer">
+                </div>
+                <input type="hidden" name="city_id" id="ts_city_input" value="" />
+                <input type="hidden" id="ts_city_input_path" value="" />
+                <div id="selecting-city" data-link="https://www.alio.lt/public/textSearch/setCity.html"></div>
+            </div>
+        </div>
+
+	<div id="ts_category_b">
+
+				<div id="ts_category_selector"
+             class="eventView"
+             data-id="header_line_b"
+             data-name="Paieskos blokas"
+             data-creation="Kategorija"
+             data-pos="1">
+			<span>Visi skelbimai</span>
+			<i class="category_delete_icon fa fa-angle-down"></i>
+		</div>
+		
+		<div id="ts_category_list">
+
+							<span class="cat_l_b selected selecteds" data-value="" id="allcats_v">Visi skelbimai</span>
+								<span class="cat_l_b " data-main-cat-id="593" data-value="593"  >Transportas</span>
+								<span class="cat_l_b " data-main-cat-id="1353" data-value="1353"  >Nekilnojamasis turtas</span>
+								<span class="cat_l_b " data-main-cat-id="1743" data-value="1743"  >Statyba, remontas</span>
+								<span class="cat_l_b " data-main-cat-id="2113" data-value="2113"  >Viskas namams</span>
+								<span class="cat_l_b " data-main-cat-id="2343" data-value="2343"  >Telefonai</span>
+								<span class="cat_l_b " data-main-cat-id="2443" data-value="2443"  >Darbas, mokslas</span>
+								<span class="cat_l_b " data-main-cat-id="2533" data-value="2533"  >Technika</span>
+								<span class="cat_l_b " data-main-cat-id="3003" data-value="3003"  >Laisvalaikis</span>
+								<span class="cat_l_b " data-main-cat-id="3313" data-value="3313"  >Drabužiai</span>
+								<span class="cat_l_b " data-main-cat-id="3423" data-value="3423"  >Kompiuterija</span>
+								<span class="cat_l_b " data-main-cat-id="3633" data-value="3633"  >Verslas</span>
+								<span class="cat_l_b " data-main-cat-id="5033" data-value="5033"  >Viskas nemokamai</span>
+								<span class="cat_l_b " data-main-cat-id="5172" data-value="5172"  >Prekės vaikams</span>
+						</div>
+
+        <input type="hidden" name="category_id" id="ts_category_input" value="" />
+		<input type="hidden" id="ts_category_input_path" value="" />
+
+		
+	</div>
+
+</div>
+<div id="search_mh_b_bg"></div>
+
+          <div id="addnew_mb_b">
+            <a
+
+            class="eventView"
+            data-id="header_line_b"
+            data-name="Ideti skelbima mygtukas"
+            data-creation="+ Įdėti skelbimą"
+            data-pos="1"
+
+            href="https://www.alio.lt/pasirinkite_kategorija.html">+ Įdėti skelbimą</a>
+          </div>
+
+          <input type="hidden" name="top_search" value="1" />
+        </form>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+    </div>
+
+
+    
+
+    
+
+
+
+    <div id="delfi-container-inner" class="">
+      <div id="main-content" class="layout_index">
+
+
+
+
+                  <div id="main-content-center" class="w1300">
+            <div id="main-extra-menu">
+    <div id="main-extra-menu-menu" class="set_1 " data-default="set_1">
+        <a class="main-menu-item form_custom_menu_hover_el selected eventView" data-url="popular" data-id="main_page" data-name="Titulinio blokai" data-creation="Populiariausi" data-set="1"  data-pos="1" id="set_1">Populiariausi</a>
+        <a class="main-menu-item form_custom_menu_hover_el eventView" data-url="recommended" data-id="main_page" data-name="Titulinio blokai" data-creation="cXence blokas" data-pos="2" data-set="2" id="set_2">Rekomenduojami</a>
+        <a class="main-menu-item form_custom_menu_hover_el eventView" data-url="lastseen" data-id="main_page" data-name="Titulinio blokai" data-creation="Paskutiniai matyti" data-pos="3" data-set="3" id="set_3">Paskutinį kartą žiūrėta</a>
+        <a class="main-menu-item form_custom_menu_hover_el eventView subscriptions_" data-url="subscriptions" data-id="main_page" data-name="Titulinio blokai" data-creation="Išsaugotos paieškos" data-pos="4" data-set="4" id="set_4">Išsaugotos paieškos <span></span></a>
+        <a class="main-menu-item form_custom_menu_hover_el eventView selected_" data-url="selected" data-id="main_page" data-name="Titulinio blokai" data-creation="Pažymėti" data-set="5" data-pos="5" id="set_5">Pažymėti <span></span></a>
+        <div class="clr"></div>
+    </div>
+    <div id="main-extra-menu-data" class="main-extra-menu-data_ main-extra-menu-data__"></div>
+</div>
+
+<script type="text/javascript">
+    var urls_calls = {
+                'recommended':'https://www.alio.lt/public/banners/fakeCxense.html',
+                'lastseen':'https://www.alio.lt/paskutini-kart-ziureta.html',
+        'subscriptions':'https://www.alio.lt/issaugotos-paieskos.html',
+        'selected':'https://www.alio.lt/pazymeti.html',
+        'popular':'https://www.alio.lt/populiariausi.html',
+        'subscriptions_c':'https://www.alio.lt/title_get_saved_search.html',
+        'selected_c':'https://www.alio.lt/title_get_favorites.html',
+    };
+</script>
+
+<div class="titleSearch_b mobile_show">
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Mobile mygtukas virs kategoriju"
+  data-creation="Įdėti skelbimą"
+  data-pos="1"
+  href="https://www.alio.lt/pasirinkite_kategorija.html">
+
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_addnew"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Įdėk Skelbimą NEMOKAMAI!</span>
+    </h2>
+
+    <div class="m_parent_cats">
+        Greitai ir patogiai
+    </div>
+  </div>
+</a>
+
+
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Nekilnojamasis turtas"
+  data-pos="1"
+
+  href="https://www.alio.lt/nekilnojamas-turtas.html" title="Nekilnojamasis turtas">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_1353"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Nekilnojamasis turtas</span>
+
+      <span class="acounter_h2">35563</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Namai, kotedžai, sodybos&nbsp;&nbsp;&nbsp;
+                Butai&nbsp;&nbsp;&nbsp;
+                Butų nuoma&nbsp;&nbsp;&nbsp;
+                Kambarių nuoma&nbsp;&nbsp;&nbsp;
+                Sklypai, miškai&nbsp;&nbsp;&nbsp;
+                Garažai&nbsp;&nbsp;&nbsp;
+                Patalpos&nbsp;&nbsp;&nbsp;
+                Patalpų nuoma&nbsp;&nbsp;&nbsp;
+                Trumpalaikė nuoma&nbsp;&nbsp;&nbsp;
+                NT užsienyje&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Transportas"
+  data-pos="2"
+
+  href="https://www.alio.lt/transportas.html" title="Transportas">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_593"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Transportas</span>
+
+      <span class="acounter_h2">373306</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Lengvieji automobiliai&nbsp;&nbsp;&nbsp;
+                Žemės ūkio technika&nbsp;&nbsp;&nbsp;
+                Motociklai, apranga&nbsp;&nbsp;&nbsp;
+                Dviračiai, jų dalys&nbsp;&nbsp;&nbsp;
+                Dalys, aksesuarai&nbsp;&nbsp;&nbsp;
+                Ratlankiai&nbsp;&nbsp;&nbsp;
+                Padangos&nbsp;&nbsp;&nbsp;
+                Nameliai ant ratų&nbsp;&nbsp;&nbsp;
+                Priekabos, puspriekabės&nbsp;&nbsp;&nbsp;
+                Paslaugos&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Statyba, remontas"
+  data-pos="3"
+
+  href="https://www.alio.lt/statyba-remontas.html" title="Statyba, remontas">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_1743"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Statyba, remontas</span>
+
+      <span class="acounter_h2">12930</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Apdailos darbai&nbsp;&nbsp;&nbsp;
+                Statybos ir gamybos įranga&nbsp;&nbsp;&nbsp;
+                Statybinės medžiagos&nbsp;&nbsp;&nbsp;
+                Statybiniai darbai&nbsp;&nbsp;&nbsp;
+                Langai, durys, laiptai, vartai&nbsp;&nbsp;&nbsp;
+                Aplinkos tvarkymas&nbsp;&nbsp;&nbsp;
+                Šildymas, vėdinimas&nbsp;&nbsp;&nbsp;
+                Inžinerinės sistemos&nbsp;&nbsp;&nbsp;
+                Technikos nuoma&nbsp;&nbsp;&nbsp;
+                Projektavimas, matavimai&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Laisvalaikis"
+  data-pos="4"
+
+  href="https://www.alio.lt/laisvalaikis.html" title="Laisvalaikis">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_3003"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Laisvalaikis</span>
+
+      <span class="acounter_h2">12831</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Pažintys&nbsp;&nbsp;&nbsp;
+                Muzikos instrumentai&nbsp;&nbsp;&nbsp;
+                Dviračiai, jų dalys&nbsp;&nbsp;&nbsp;
+                Sportas, turizmas&nbsp;&nbsp;&nbsp;
+                Nuoma poilsiui&nbsp;&nbsp;&nbsp;
+                Paslaugos&nbsp;&nbsp;&nbsp;
+                Kolekcionavimas&nbsp;&nbsp;&nbsp;
+                Sveikata, grožis&nbsp;&nbsp;&nbsp;
+                Knygos, spauda&nbsp;&nbsp;&nbsp;
+                Bilietai&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Darbas, mokslas"
+  data-pos="5"
+
+  href="https://www.alio.lt/darbas-mokslas.html" title="Darbas, mokslas">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_2443"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Darbas, mokslas</span>
+
+      <span class="acounter_h2">4622</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Siūlo darbą&nbsp;&nbsp;&nbsp;
+                Ieško darbo&nbsp;&nbsp;&nbsp;
+                Kursai ir mokymai&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Verslas"
+  data-pos="6"
+
+  href="https://www.alio.lt/verslas.html" title="Verslas">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_3633"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Verslas</span>
+
+      <span class="acounter_h2">1586</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Paskolos, kreditai&nbsp;&nbsp;&nbsp;
+                Paslaugos verslui&nbsp;&nbsp;&nbsp;
+                Įmonės&nbsp;&nbsp;&nbsp;
+                Investicijos&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Viskas namams"
+  data-pos="7"
+
+  href="https://www.alio.lt/viskas-namams.html" title="Viskas namams">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_2113"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Viskas namams</span>
+
+      <span class="acounter_h2">18776</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Baldai, interjeras&nbsp;&nbsp;&nbsp;
+                Buitinė technika&nbsp;&nbsp;&nbsp;
+                Fauna&nbsp;&nbsp;&nbsp;
+                Augalai, sodo prekės&nbsp;&nbsp;&nbsp;
+                Namų apyvokos reikmenys&nbsp;&nbsp;&nbsp;
+                Antikvariatas&nbsp;&nbsp;&nbsp;
+                Kietas, skystas kuras&nbsp;&nbsp;&nbsp;
+                Maistas, gėrimai&nbsp;&nbsp;&nbsp;
+                Meistras į namus&nbsp;&nbsp;&nbsp;
+                Paslaugos&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Technika"
+  data-pos="8"
+
+  href="https://www.alio.lt/technika.html" title="Technika">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_2533"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Technika</span>
+
+      <span class="acounter_h2">12053</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Muzikos instrumentai&nbsp;&nbsp;&nbsp;
+                Gamybos, pramonės technika&nbsp;&nbsp;&nbsp;
+                Buitinė technika&nbsp;&nbsp;&nbsp;
+                Garso aparatūra&nbsp;&nbsp;&nbsp;
+                Vaizdo aparatūra&nbsp;&nbsp;&nbsp;
+                Foto technika&nbsp;&nbsp;&nbsp;
+                GPS, radijo įranga&nbsp;&nbsp;&nbsp;
+                Biuro, prekybinė technika&nbsp;&nbsp;&nbsp;
+                Paslaugos&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Telefonai"
+  data-pos="9"
+
+  href="https://www.alio.lt/telefonai.html" title="Telefonai">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_2343"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Telefonai</span>
+
+      <span class="acounter_h2">5749</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Mobilieji telefonai&nbsp;&nbsp;&nbsp;
+                Paslaugos&nbsp;&nbsp;&nbsp;
+                Mobilių dalys, priedai&nbsp;&nbsp;&nbsp;
+                Telefonai, faksai&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Kompiuterija"
+  data-pos="10"
+
+  href="https://www.alio.lt/kompiuterija.html" title="Kompiuterija">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_3423"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Kompiuterija</span>
+
+      <span class="acounter_h2">3889</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Nešiojami kompiuteriai&nbsp;&nbsp;&nbsp;
+                Planšetiniai kompiuteriai&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Prekės vaikams"
+  data-pos="11"
+
+  href="https://www.alio.lt/prekes_vaikams.html" title="Prekės vaikams">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_5172"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Prekės vaikams</span>
+
+      <span class="acounter_h2">3337</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Vežimėliai, autokėdutės&nbsp;&nbsp;&nbsp;
+                Drabužiai, avalynė&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Drabužiai"
+  data-pos="12"
+
+  href="https://www.alio.lt/drabuziai-aksesuarai.html" title="Drabužiai">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_3313"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Drabužiai</span>
+
+      <span class="acounter_h2">6062</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Drabužiai&nbsp;&nbsp;&nbsp;
+                Avalynė&nbsp;&nbsp;&nbsp;
+                Aksesuarai, papuošalai&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+
+
+  <a
+  class="eventView"
+  data-id="main_content_mobile"
+  data-name="Skelbimo kategorijos Mobile"
+  data-creation="Viskas nemokamai"
+  data-pos="13"
+
+  href="https://www.alio.lt/viskas_nemokamai.html" title="Viskas nemokamai">
+  <div class="title-categories">
+    <div class="p_relative">
+      <span class="catspatern_s" id="cpatern_5033"></span>
+    </div>
+
+    <h2 class="clearfix">
+      <span class="categoryname_h2">Viskas nemokamai</span>
+
+      <span class="acounter_h2">239</span>
+    </h2>
+
+    <div class="m_parent_cats">
+              Dovanoja&nbsp;&nbsp;&nbsp;
+                Prašo padovanoti&nbsp;&nbsp;&nbsp;
+                Radiniai&nbsp;&nbsp;&nbsp;
+            </div>
+
+  </div>
+</a>
+
+</div>
+
+
+<div class="titleSearch_b mobile_hide">
+      
+              <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_1353"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Nekilnojamasis turtas"
+          data-pos="1_1"
+
+          href="https://www.alio.lt/nekilnojamas-turtas.html" title="Nekilnojamasis turtas">Nekilnojamasis turtas        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_1423">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Namai, kotedžai, sodybos"
+            data-pos="1_2"
+            href="https://www.alio.lt/nekilnojamas-turtas/namai-sodybos-kotedzai/parduoda.html" title="Namai, kotedžai, sodybos">Namai, kotedžai, sodybos</a>
+            (8338)
+          </li>
+                                <li class="titlesearchcategory_1363">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Parduodami butai"
+            data-pos="1_3"
+            href="https://www.alio.lt/nekilnojamas-turtas/butai/parduoda.html" title="Parduodami butai">Butai</a>
+            (11518)
+          </li>
+                                <li class="titlesearchcategory_4953">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Butų nuoma"
+            data-pos="1_4"
+            href="https://www.alio.lt/nekilnojamas-turtas/butai/nuomoja.html" title="Butų nuoma">Butų nuoma</a>
+            (1137)
+          </li>
+                                <li class="titlesearchcategory_1533">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Kambarių nuoma"
+            data-pos="1_5"
+            href="https://www.alio.lt/nekilnojamas-turtas/kambarys/nuomoja.html" title="Kambarių nuoma">Kambarių nuoma</a>
+            (176)
+          </li>
+                                <li class="titlesearchcategory_1463">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Sklypai, miškai"
+            data-pos="1_6"
+            href="https://www.alio.lt/nekilnojamas-turtas/sklypai-miskai/parduoda.html" title="Sklypai, miškai">Sklypai, miškai</a>
+            (10380)
+          </li>
+                                <li class="titlesearchcategory_1573">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Garažai"
+            data-pos="1_7"
+            href="https://www.alio.lt/nekilnojamas-turtas/garazai/parduoda.html" title="Garažai">Garažai</a>
+            (703)
+          </li>
+                                <li class="titlesearchcategory_1503">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Patalpos"
+            data-pos="1_8"
+            href="https://www.alio.lt/nekilnojamas-turtas/komercines-patalpos/parduoda.html" title="Patalpos">Patalpos</a>
+            (3678)
+          </li>
+                                <li class="titlesearchcategory_6349">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Patalpų nuoma"
+            data-pos="1_9"
+            href="https://www.alio.lt/nekilnojamas-turtas/komercines-patalpos/nuomoja.html" title="Patalpų nuoma">Patalpų nuoma</a>
+            (2525)
+          </li>
+                                <li class="titlesearchcategory_5102">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Trumpalaikė nuoma"
+            data-pos="1_10"
+            href="https://www.alio.lt/laisvalaikis/nuoma-poilsiui/nuomoja.html" title="Trumpalaikė nuoma">Trumpalaikė nuoma</a>
+            (397)
+          </li>
+                                <li class="titlesearchcategory_1643">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="NT užsienyje"
+            data-pos="1_11"
+            href="https://www.alio.lt/nekilnojamas-turtas/nt-uzsienyje/parduoda.html" title="NT užsienyje">NT užsienyje</a>
+            (175)
+          </li>
+                      
+
+
+                      <li class="more_categories titlesearchcategory_1353">
+              <a
+              class="eventView"
+              data-id="main_content"
+              data-name="Skelbimo kategorijos"
+              data-creation="Daugiau"
+              data-pos="1_12"
+
+              href=https://www.alio.lt/nekilnojamas-turtas.html>Daugiau <span class="more_categories_b"></span></a></li>
+                        </ul>
+        </div>
+
+              
+            
+      
+              <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_593"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Transportas"
+          data-pos="2_1"
+
+          href="https://www.alio.lt/transportas.html" title="Transportas">Transportas        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_603">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Lengvieji automobiliai"
+            data-pos="2_2"
+            href="https://www.alio.lt/transportas/lengvieji-automobiliai/parduoda.html" title="Lengvieji automobiliai">Lengvieji automobiliai</a>
+            (7443)
+          </li>
+                                <li class="titlesearchcategory_1133">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Žemės ūkio technika"
+            data-pos="2_3"
+            href="https://www.alio.lt/transportas/zemes-ukio-technika/parduoda.html" title="Žemės ūkio technika">Žemės ūkio technika</a>
+            (1365)
+          </li>
+                                <li class="titlesearchcategory_5412">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Motociklai, apranga"
+            data-pos="2_4"
+            href="https://www.alio.lt/transportas/motociklai_apranga.html" title="Motociklai, apranga">Motociklai, apranga</a>
+            (1727)
+          </li>
+                                <li class="titlesearchcategory_1163">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Dviračiai, velomobiliai, jų dalys"
+            data-pos="2_5"
+            href="https://www.alio.lt/transportas/dviraciai-velomobiliai-ju-dalys.html" title="Dviračiai, velomobiliai, jų dalys">Dviračiai, jų dalys</a>
+            (645)
+          </li>
+                                <li class="titlesearchcategory_653">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Dalys"
+            data-pos="2_6"
+            href="https://www.alio.lt/transportas/dalys.html" title="Dalys">Dalys, aksesuarai</a>
+            (331171)
+          </li>
+                                <li class="titlesearchcategory_1303">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Ratlankiai"
+            data-pos="2_7"
+            href="https://www.alio.lt/transportas/ratlankiai/parduoda.html" title="Ratlankiai">Ratlankiai</a>
+            (5725)
+          </li>
+                                <li class="titlesearchcategory_1273">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Padangos"
+            data-pos="2_8"
+            href="https://www.alio.lt/transportas/padangos/parduoda.html" title="Padangos">Padangos</a>
+            (10168)
+          </li>
+                                <li class="titlesearchcategory_1003">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Nameliai ant ratų"
+            data-pos="2_9"
+            href="https://www.alio.lt/transportas/nameliai-ant-ratu/parduoda.html" title="Nameliai ant ratų">Nameliai ant ratų</a>
+            (30)
+          </li>
+                                <li class="titlesearchcategory_943">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Priekabos, puspriekabės"
+            data-pos="2_10"
+            href="https://www.alio.lt/transportas/priekabos-puspriekabes/parduoda.html" title="Priekabos, puspriekabės">Priekabos, puspriekabės</a>
+            (481)
+          </li>
+                                <li class="titlesearchcategory_1333">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Paslaugos"
+            data-pos="2_11"
+            href="https://www.alio.lt/transportas/paslaugos/paslaugos.html" title="Paslaugos">Paslaugos</a>
+            (10228)
+          </li>
+                      
+
+
+                      <li class="more_categories titlesearchcategory_593">
+              <a
+              class="eventView"
+              data-id="main_content"
+              data-name="Skelbimo kategorijos"
+              data-creation="Daugiau"
+              data-pos="2_12"
+
+              href=https://www.alio.lt/transportas.html>Daugiau <span class="more_categories_b"></span></a></li>
+                        </ul>
+        </div>
+
+              
+                    <div class="clr_mobile"></div>
+      
+      
+              <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_1743"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Statyba, remontas"
+          data-pos="3_1"
+
+          href="https://www.alio.lt/statyba-remontas.html" title="Statyba, remontas">Statyba, remontas        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_4483">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Apdailos darbai"
+            data-pos="3_2"
+            href="https://www.alio.lt/statyba-remontas/paslaugos/apdailos-darbai.html" title="Apdailos darbai">Apdailos darbai</a>
+            (1071)
+          </li>
+                                <li class="titlesearchcategory_1953">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Statybos ir gamybos įranga"
+            data-pos="3_3"
+            href="https://www.alio.lt/statyba-remontas/statybos-ir-gamybos-iranga-irankiai/parduoda.html" title="Statybos ir gamybos įranga">Statybos ir gamybos įranga</a>
+            (3802)
+          </li>
+                                <li class="titlesearchcategory_1753">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Statybinės medžiagos"
+            data-pos="3_4"
+            href="https://www.alio.lt/statyba-remontas/statybines-medziagos-irenginiai/parduoda.html" title="Statybinės medžiagos">Statybinės medžiagos</a>
+            (2193)
+          </li>
+                                <li class="titlesearchcategory_4523">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Pagrindiniai statybiniai darbai"
+            data-pos="3_5"
+            href="https://www.alio.lt/statyba-remontas/paslaugos/pagrindiniai-statybiniai-darbai.html" title="Pagrindiniai statybiniai darbai">Statybiniai darbai</a>
+            (1158)
+          </li>
+                                <li class="titlesearchcategory_4543">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Langų, durų, laiptų, vartų gamyba ir montavimas"
+            data-pos="3_6"
+            href="https://www.alio.lt/statyba-remontas/paslaugos/langu-duru-gamyba-ir-montavimas.html" title="Langų, durų, laiptų, vartų gamyba ir montavimas">Langai, durys, laiptai, vartai</a>
+            (876)
+          </li>
+                                <li class="titlesearchcategory_4493">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Aplinkos tvarkymas"
+            data-pos="3_7"
+            href="https://www.alio.lt/statyba-remontas/paslaugos/aplinkos-tvarkymas.html" title="Aplinkos tvarkymas">Aplinkos tvarkymas</a>
+            (645)
+          </li>
+                                <li class="titlesearchcategory_1983">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Šildymas, vėdinimas"
+            data-pos="3_8"
+            href="https://www.alio.lt/statyba-remontas/sildymas-vedinimas-kondicionavimas/parduoda.html" title="Šildymas, vėdinimas">Šildymas, vėdinimas</a>
+            (609)
+          </li>
+                                <li class="titlesearchcategory_4513">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Inžinerinės sistemos"
+            data-pos="3_9"
+            href="https://www.alio.lt/statyba-remontas/paslaugos/inzinerines-sistemos.html" title="Inžinerinės sistemos">Inžinerinės sistemos</a>
+            (884)
+          </li>
+                                <li class="titlesearchcategory_4553">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Technikos nuoma"
+            data-pos="3_10"
+            href="https://www.alio.lt/statyba-remontas/paslaugos/technikos-nuoma.html" title="Technikos nuoma">Technikos nuoma</a>
+            (1308)
+          </li>
+                                <li class="titlesearchcategory_4533">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Projektavimas. Matavimai. Priežiūra"
+            data-pos="3_11"
+            href="https://www.alio.lt/statyba-remontas/paslaugos/projektavimas.-dizainas.-matavimai.-prieziura.html" title="Projektavimas. Matavimai. Priežiūra">Projektavimas, matavimai</a>
+            (234)
+          </li>
+                      
+
+
+                      <li class="more_categories titlesearchcategory_1743">
+              <a
+              class="eventView"
+              data-id="main_content"
+              data-name="Skelbimo kategorijos"
+              data-creation="Daugiau"
+              data-pos="3_12"
+
+              href=https://www.alio.lt/statyba-remontas.html>Daugiau <span class="more_categories_b"></span></a></li>
+                        </ul>
+        </div>
+
+              
+            
+      
+              <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_3003"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Laisvalaikis"
+          data-pos="4_1"
+
+          href="https://www.alio.lt/laisvalaikis.html" title="Laisvalaikis">Laisvalaikis        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_4423">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Pažintys"
+            data-pos="4_2"
+            href="https://www.alio.lt/laisvalaikis/pazintys/iesko.html" title="Pažintys">Pažintys</a>
+            (384)
+          </li>
+                                <li class="titlesearchcategory_5712">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Muzikos instrumentai"
+            data-pos="4_3"
+            href="https://www.alio.lt/technika/muzikos-instrumentai/parduoda.html" title="Muzikos instrumentai">Muzikos instrumentai</a>
+            (647)
+          </li>
+                                <li class="titlesearchcategory_6272">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Dviračiai, jų dalys"
+            data-pos="4_4"
+            href="https://www.alio.lt/transportas/dviraciai-velomobiliai-ju-dalys.html" title="Dviračiai, jų dalys">Dviračiai, jų dalys</a>
+            (645)
+          </li>
+                                <li class="titlesearchcategory_3013">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Sportas, turizmas"
+            data-pos="4_5"
+            href="https://www.alio.lt/laisvalaikis/sportas-turizmas/parduoda.html" title="Sportas, turizmas">Sportas, turizmas</a>
+            (1788)
+          </li>
+                                <li class="titlesearchcategory_4123">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Nuoma poilsiui"
+            data-pos="4_6"
+            href="https://www.alio.lt/laisvalaikis/nuoma-poilsiui/nuomoja.html" title="Nuoma poilsiui">Nuoma poilsiui</a>
+            (397)
+          </li>
+                                <li class="titlesearchcategory_5562">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Paslaugos"
+            data-pos="4_7"
+            href="https://www.alio.lt/laisvalaikis/paslaugos.html" title="Paslaugos">Paslaugos</a>
+            (1481)
+          </li>
+                                <li class="titlesearchcategory_3043">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Kolekcijos, trofėjai, menas"
+            data-pos="4_8"
+            href="https://www.alio.lt/laisvalaikis/kolekcijos-trofejai/parduoda.html" title="Kolekcijos, trofėjai, menas">Kolekcionavimas</a>
+            (2403)
+          </li>
+                                <li class="titlesearchcategory_3063">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Sveikata, grožis"
+            data-pos="4_9"
+            href="https://www.alio.lt/laisvalaikis/sveikata-grozis/parduoda.html" title="Sveikata, grožis">Sveikata, grožis</a>
+            (1693)
+          </li>
+                                <li class="titlesearchcategory_3083">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Knygos, spauda"
+            data-pos="4_10"
+            href="https://www.alio.lt/laisvalaikis/spauda/parduoda.html" title="Knygos, spauda">Knygos, spauda</a>
+            (3310)
+          </li>
+                                <li class="titlesearchcategory_3113">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Bilietai"
+            data-pos="4_11"
+            href="https://www.alio.lt/laisvalaikis/bilietai/parduoda.html" title="Bilietai">Bilietai</a>
+            (14)
+          </li>
+                      
+
+
+                      <li class="more_categories titlesearchcategory_3003">
+              <a
+              class="eventView"
+              data-id="main_content"
+              data-name="Skelbimo kategorijos"
+              data-creation="Daugiau"
+              data-pos="4_12"
+
+              href=https://www.alio.lt/laisvalaikis.html>Daugiau <span class="more_categories_b"></span></a></li>
+                        </ul>
+        </div>
+
+              
+                    <div class="clr_mobile"></div>
+      
+      
+              <div class="one-block">
+                <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_2443"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Darbas, mokslas"
+          data-pos="5_1"
+
+          href="https://www.alio.lt/darbas-mokslas.html" title="Darbas, mokslas">Darbas, mokslas        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_6314">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Siūlo darbą"
+            data-pos="5_2"
+            href="https://www.alio.lt/darbas-mokslas/siulo_darba/siulo.html" title="Siūlo darbą">Siūlo darbą</a>
+            (3297)
+          </li>
+                                <li class="titlesearchcategory_6313">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Ieško darbo"
+            data-pos="5_3"
+            href="https://www.alio.lt/darbas-mokslas/iesko_darba/iesko.html" title="Ieško darbo">Ieško darbo</a>
+            (778)
+          </li>
+                                <li class="titlesearchcategory_6315">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Kursai ir mokymai"
+            data-pos="5_4"
+            href="https://www.alio.lt/darbas-mokslas/kursai_ir_mokymai/siulo.html" title="Kursai ir mokymai">Kursai ir mokymai</a>
+            (547)
+          </li>
+                      
+
+
+                    </ul>
+        </div>
+
+              
+            
+      
+              <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_3633"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Verslas"
+          data-pos="6_1"
+
+          href="https://www.alio.lt/verslas.html" title="Verslas">Verslas        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_6202">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Paskolos, kreditai"
+            data-pos="6_2"
+            href="https://www.alio.lt/verslas/paskolos_kreditai/siulo.html" title="Paskolos, kreditai">Paskolos, kreditai</a>
+            (339)
+          </li>
+                                <li class="titlesearchcategory_3753">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Paslaugos"
+            data-pos="6_3"
+            href="https://www.alio.lt/verslas/paslaugos/siulo.html" title="Paslaugos">Paslaugos verslui</a>
+            (871)
+          </li>
+                                <li class="titlesearchcategory_3643">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Įmonės"
+            data-pos="6_4"
+            href="https://www.alio.lt/verslas/imones/siulo.html" title="Įmonės">Įmonės</a>
+            (138)
+          </li>
+                                <li class="titlesearchcategory_3703">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Investicijos"
+            data-pos="6_5"
+            href="https://www.alio.lt/verslas/investicijos/siulo.html" title="Investicijos">Investicijos</a>
+            (99)
+          </li>
+                      
+
+
+                      <li class="more_categories titlesearchcategory_3633">
+              <a
+              class="eventView"
+              data-id="main_content"
+              data-name="Skelbimo kategorijos"
+              data-creation="Daugiau"
+              data-pos="6_6"
+
+              href=https://www.alio.lt/verslas.html>Daugiau <span class="more_categories_b"></span></a></li>
+                        </ul>
+        </div>
+
+                </div>
+            
+              <div class="clr_desktop"></div>
+            
+      
+              <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_2113"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Viskas namams"
+          data-pos="7_1"
+
+          href="https://www.alio.lt/viskas-namams.html" title="Viskas namams">Viskas namams        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_2123">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Baldai, interjeras"
+            data-pos="7_2"
+            href="https://www.alio.lt/viskas-namams/baldai-interjeras/parduoda.html" title="Baldai, interjeras">Baldai, interjeras</a>
+            (8295)
+          </li>
+                                <li class="titlesearchcategory_2243">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Buitinė technika"
+            data-pos="7_3"
+            href="https://www.alio.lt/viskas-namams/buitine-technika/parduoda.html" title="Buitinė technika">Buitinė technika</a>
+            (1606)
+          </li>
+                                <li class="titlesearchcategory_2303">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Fauna"
+            data-pos="7_4"
+            href="https://www.alio.lt/viskas-namams/fauna.html" title="Fauna">Fauna</a>
+            (832)
+          </li>
+                                <li class="titlesearchcategory_2273">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Augalai, sodas, daržas, ūkis"
+            data-pos="7_5"
+            href="https://www.alio.lt/viskas-namams/augalai-sodas-darzas-ukis/parduoda.html" title="Augalai, sodas, daržas, ūkis">Augalai, sodo prekės</a>
+            (1090)
+          </li>
+                                <li class="titlesearchcategory_5502">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Namų apyvokos reikmenys"
+            data-pos="7_6"
+            href="https://www.alio.lt/viskas-namams/namu_apyvokos_reikmenys/parduoda.html" title="Namų apyvokos reikmenys">Namų apyvokos reikmenys</a>
+            (2258)
+          </li>
+                                <li class="titlesearchcategory_5942">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Antikvariatas"
+            data-pos="7_7"
+            href="https://www.alio.lt/laisvalaikis/kolekcijos-trofejai.html" title="Antikvariatas">Antikvariatas</a>
+            (2403)
+          </li>
+                                <li class="titlesearchcategory_5842">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Kietas, skystas kuras"
+            data-pos="7_8"
+            href="https://www.alio.lt/viskas-namams/kietas_skystas_kuras/parduoda.html" title="Kietas, skystas kuras">Kietas, skystas kuras</a>
+            (828)
+          </li>
+                                <li class="titlesearchcategory_5522">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Maistas, gėrimai"
+            data-pos="7_9"
+            href="https://www.alio.lt/viskas-namams/maistas_gerimai/parduoda.html" title="Maistas, gėrimai">Maistas, gėrimai</a>
+            (193)
+          </li>
+                                <li class="titlesearchcategory_6162">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Meistras į namus"
+            data-pos="7_10"
+            href="https://www.alio.lt/viskas-namams/meistras_i_namus/paslaugos.html" title="Meistras į namus">Meistras į namus</a>
+            (514)
+          </li>
+                                <li class="titlesearchcategory_2323">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Paslaugos"
+            data-pos="7_11"
+            href="https://www.alio.lt/viskas-namams/paslaugos/paslaugos.html" title="Paslaugos">Paslaugos</a>
+            (757)
+          </li>
+                      
+
+
+                    </ul>
+        </div>
+
+              
+            
+      
+              <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_2533"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Technika"
+          data-pos="8_1"
+
+          href="https://www.alio.lt/technika.html" title="Technika">Technika        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_2703">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Muzikos instrumentai"
+            data-pos="8_2"
+            href="https://www.alio.lt/technika/muzikos-instrumentai/parduoda.html" title="Muzikos instrumentai">Muzikos instrumentai</a>
+            (647)
+          </li>
+                                <li class="titlesearchcategory_5152">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Gamybos, pramonės technika"
+            data-pos="8_3"
+            href="https://www.alio.lt/statyba-remontas/statybos-ir-gamybos-iranga-irankiai/parduoda.html" title="Gamybos, pramonės technika">Gamybos, pramonės technika</a>
+            (3802)
+          </li>
+                                <li class="titlesearchcategory_2563">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Buitinė technika"
+            data-pos="8_4"
+            href="https://www.alio.lt/viskas-namams/buitine-technika/parduoda.html" title="Buitinė technika">Buitinė technika</a>
+            (1576)
+          </li>
+                                <li class="titlesearchcategory_2543">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Garso aparatūra"
+            data-pos="8_5"
+            href="https://www.alio.lt/technika/garso-aparatura/parduoda.html" title="Garso aparatūra">Garso aparatūra</a>
+            (3374)
+          </li>
+                                <li class="titlesearchcategory_2593">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Vaizdo aparatūra"
+            data-pos="8_6"
+            href="https://www.alio.lt/technika/vaizdo-aparatura.html" title="Vaizdo aparatūra">Vaizdo aparatūra</a>
+            (1160)
+          </li>
+                                <li class="titlesearchcategory_2743">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Foto technika"
+            data-pos="8_7"
+            href="https://www.alio.lt/technika/foto-technika/parduoda.html" title="Foto technika">Foto technika</a>
+            (403)
+          </li>
+                                <li class="titlesearchcategory_2723">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="GPS, radijo įranga, aksesuarai"
+            data-pos="8_8"
+            href="https://www.alio.lt/technika/gps-radijo-iranga-aksesuarai/parduoda.html" title="GPS, radijo įranga, aksesuarai">GPS, radijo įranga</a>
+            (365)
+          </li>
+                                <li class="titlesearchcategory_5742">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Biuro, prekybinė technika"
+            data-pos="8_9"
+            href="https://www.alio.lt/technika/biuro_prekybine_technika/parduoda.html" title="Biuro, prekybinė technika">Biuro, prekybinė technika</a>
+            (165)
+          </li>
+                                <li class="titlesearchcategory_2763">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Paslaugos"
+            data-pos="8_10"
+            href="https://www.alio.lt/technika/paslaugos/paslaugos.html" title="Paslaugos">Paslaugos</a>
+            (561)
+          </li>
+                      
+
+
+                    </ul>
+        </div>
+
+              
+                    <div class="clr_mobile"></div>
+      
+      
+              <div class="one-block">
+                <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_2343"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Telefonai"
+          data-pos="9_1"
+
+          href="https://www.alio.lt/telefonai.html" title="Telefonai">Telefonai        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_2353">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Mobilieji telefonai"
+            data-pos="9_2"
+            href="https://www.alio.lt/telefonai/mobilieji-telefonai/parduoda.html" title="Mobilieji telefonai">Mobilieji telefonai</a>
+            (1289)
+          </li>
+                                <li class="titlesearchcategory_2423">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Paslaugos"
+            data-pos="9_3"
+            href="https://www.alio.lt/telefonai/paslaugos/paslaugos.html" title="Paslaugos">Paslaugos</a>
+            (211)
+          </li>
+                                <li class="titlesearchcategory_2383">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Mobilių dalys, priedai"
+            data-pos="9_4"
+            href="https://www.alio.lt/telefonai/mobiliu-dalys-priedai/parduoda.html" title="Mobilių dalys, priedai">Mobilių dalys, priedai</a>
+            (4192)
+          </li>
+                                <li class="titlesearchcategory_2403">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Laidiniai telefonai, faksai"
+            data-pos="9_5"
+            href="https://www.alio.lt/telefonai/laidiniai-telefonai-faksai/parduoda.html" title="Laidiniai telefonai, faksai">Telefonai, faksai</a>
+            (57)
+          </li>
+                      
+
+
+                    </ul>
+        </div>
+
+              
+            
+      
+              <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_3423"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Kompiuterija"
+          data-pos="10_1"
+
+          href="https://www.alio.lt/kompiuterija.html" title="Kompiuterija">Kompiuterija        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_3463">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Nešiojami kompiuteriai"
+            data-pos="10_2"
+            href="https://www.alio.lt/kompiuterija/nesiojami-kompiuteriai/parduoda.html" title="Nešiojami kompiuteriai">Nešiojami kompiuteriai</a>
+            (286)
+          </li>
+                                <li class="titlesearchcategory_5462">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Planšetiniai kompiuteriai"
+            data-pos="10_3"
+            href="https://www.alio.lt/kompiuterija/plansetiniai_delniniai_kompiuteriai/parduoda.html" title="Planšetiniai kompiuteriai">Planšetiniai kompiuteriai</a>
+            (110)
+          </li>
+                      
+
+
+                      <li class="more_categories titlesearchcategory_3423">
+              <a
+              class="eventView"
+              data-id="main_content"
+              data-name="Skelbimo kategorijos"
+              data-creation="Daugiau"
+              data-pos="10_4"
+
+              href=https://www.alio.lt/kompiuterija.html>Daugiau <span class="more_categories_b"></span></a></li>
+                        </ul>
+        </div>
+
+                </div>
+            
+            
+      
+              <div class="one-block">
+                <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_5172"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Prekės vaikams"
+          data-pos="11_1"
+
+          href="https://www.alio.lt/prekes_vaikams.html" title="Prekės vaikams">Prekės vaikams        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_5212">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Vežimėliai, autokėdutės"
+            data-pos="11_2"
+            href="https://www.alio.lt/prekes_vaikams/vezimeliai_vaikstynes_autokedutes/parduoda.html" title="Vežimėliai, autokėdutės">Vežimėliai, autokėdutės</a>
+            (269)
+          </li>
+                                <li class="titlesearchcategory_5182">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Drabužiai, avalynė"
+            data-pos="11_3"
+            href="https://www.alio.lt/prekes_vaikams/drabuziai_avalyne/parduoda.html" title="Drabužiai, avalynė">Drabužiai, avalynė</a>
+            (795)
+          </li>
+                      
+
+
+                      <li class="more_categories titlesearchcategory_5172">
+              <a
+              class="eventView"
+              data-id="main_content"
+              data-name="Skelbimo kategorijos"
+              data-creation="Daugiau"
+              data-pos="11_4"
+
+              href=https://www.alio.lt/prekes_vaikams.html>Daugiau <span class="more_categories_b"></span></a></li>
+                        </ul>
+        </div>
+
+              
+                    <div class="clr_mobile"></div>
+      
+      
+              <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_3313"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Drabužiai"
+          data-pos="12_1"
+
+          href="https://www.alio.lt/drabuziai-aksesuarai.html" title="Drabužiai">Drabužiai        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_3323">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Drabužiai"
+            data-pos="12_2"
+            href="https://www.alio.lt/drabuziai-aksesuarai/drabuziai/parduoda.html" title="Drabužiai">Drabužiai</a>
+            (2319)
+          </li>
+                                <li class="titlesearchcategory_3383">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Avalynė"
+            data-pos="12_3"
+            href="https://www.alio.lt/drabuziai-aksesuarai/avalyne/parduoda.html" title="Avalynė">Avalynė</a>
+            (946)
+          </li>
+                                <li class="titlesearchcategory_3363">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Aksesuarai, papuošalai"
+            data-pos="12_4"
+            href="https://www.alio.lt/drabuziai-aksesuarai/aksesuarai.html" title="Aksesuarai, papuošalai">Aksesuarai, papuošalai</a>
+            (2344)
+          </li>
+                      
+
+
+                      <li class="more_categories titlesearchcategory_3313">
+              <a
+              class="eventView"
+              data-id="main_content"
+              data-name="Skelbimo kategorijos"
+              data-creation="Daugiau"
+              data-pos="12_5"
+
+              href=https://www.alio.lt/drabuziai-aksesuarai.html>Daugiau <span class="more_categories_b"></span></a></li>
+                        </ul>
+        </div>
+
+                </div>
+            
+            
+      
+              <div class="title-categories">
+          <div class="p_relative">          <span class="catspatern_s" id="cpatern_5033"></span>
+        </div>
+
+
+        <h2>
+          <a
+          class="eventView"
+          data-id="main_content"
+          data-name="Skelbimo kategorijos"
+          data-creation="Viskas nemokamai"
+          data-pos="13_1"
+
+          href="https://www.alio.lt/viskas_nemokamai.html" title="Viskas nemokamai">Viskas nemokamai        </a>
+      </h2>
+
+
+
+      <ul>
+                  <li class="titlesearchcategory_5043">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Dovanoja"
+            data-pos="13_2"
+            href="https://www.alio.lt/viskas_nemokamai/dovanoja/siulo.html" title="Dovanoja">Dovanoja</a>
+            (194)
+          </li>
+                                <li class="titlesearchcategory_5342">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Prašo padovanoti"
+            data-pos="13_3"
+            href="https://www.alio.lt/viskas_nemokamai/praso_padovanoti/praso_padovanoti.html" title="Prašo padovanoti">Prašo padovanoti</a>
+            (34)
+          </li>
+                                <li class="titlesearchcategory_6338">
+            <a
+            class="eventView"
+            data-id="main_content"
+            data-name="Skelbimo kategorijos"
+            data-creation="Radiniai"
+            data-pos="13_4"
+            href="https://www.alio.lt/viskas_nemokamai/radiniai/radiniai.html" title="Radiniai">Radiniai</a>
+            (11)
+          </li>
+                      
+
+
+                    </ul>
+        </div>
+
+              
+              <div class="clr_desktop"></div>
+            
+  </div>
+
+
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "https://www.alio.lt/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://www.alio.lt/paieska/{search_term_string}/",
+     "query-input": "required name=search_term_string"
+   }
+}
+</script>
+          </div>
+          
+
+
+    
+
+
+         
+
+        <div class="clr" id="listing_clr"></div>
+
+      
+
+
+      </div>
+    </div>
+
+
+
+    
+
+
+    <div id="layout_footer">
+  <footer class="clearfix">
+
+    <div id="footer_main_b_r_b" class="clearfix">
+      <a rel="nofollow"
+
+         class="eventView"
+         data-id="first_footer"
+         data-name="Apatinio pirmo meniu mygtukai"
+         data-creation="+ Įdėti skelbimą"
+         data-pos="1"
+
+         href=https://www.alio.lt/pasirinkite_kategorija.html>+ Įdėti skelbimą</a>
+      <a rel="nofollow"
+         class="eventView"
+         data-id="first_footer"
+         data-name="Apatinio pirmo meniu mygtukai"
+         data-creation="Redaguoti skelbimą"
+         data-pos="2"
+         href=https://www.alio.lt/redaguoti_skelbimai.html>Redaguoti skelbimą</a>
+    </div>
+
+    <div id="contactus_details_b">
+      <div id="contactus_email_b">
+        <i class="fa"></i>
+        <div id="contactus_email"><a href="mailto:pagalba@alio.lt" target="_blank">pagalba@alio.lt</a></div>
+      </div>
+    </div>
+
+    <div id="socialus_b" class="clearfix">
+      <a class="fa" id="twitter_f_b" itemprop="sameAs" href="https://twitter.com/Alioreklama" rel="nofollow" target="_blank" title="Alio.lt twitter"></a>
+      <a class="fa" id="facebook_f_b" itemprop="sameAs" href="https://www.facebook.com/www.alio.lt" rel="nofollow" target="_blank" title="Alio.lt Facebook"></a>
+    </div>
+
+  </footer>
+</div>
+
+<div id="footer_bottom_b">
+  <div id="footer_bottom" class="clearfix">
+    <div id="bottom_l_b" class="fl clearfix">
+      <a rel="nofollow" class="fl eventView"
+         data-id="second_footer"
+         data-name="Kontaktai ir reklama"
+         data-creation="Reklama"
+         data-pos="1"
+         href="https://www.alio.lt/reklama.html" title="Reklama" >Reklama</a>           
+      <a rel="nofollow" class="fl eventView"
+         data-id="second_footer"
+         data-name="Kontaktai ir reklama"
+         data-creation="Taisyklės"
+         data-pos="2"
+         href="https://www.alio.lt/taisykles.html" title="Taisyklės" >Taisyklės</a>
+      <a rel="nofollow" class="fl eventView"
+         data-id="second_footer"
+         data-name="Kontaktai ir reklama"
+         data-creation="DUK"
+         data-pos="3"
+         href="https://www.alio.lt/duk.html" title="DUK" >DUK</a>
+      <a rel="nofollow" class="fl eventView"
+         data-id="second_footer"
+         data-name="Kontaktai ir reklama"
+         data-creation="Privatumo politika"
+         data-pos="4"
+         href="https://www.alio.lt/privatumo-politika.html" title="Privatumo politika" >Privatumo politika</a>
+    </div>
+
+    <div id="bottom_copyright">
+      © 2020 Alio. Visos teisės saugomos.
+    </div>
+  </div>
+</div>
+
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TPJKGCL');</script>
+
+
+
+<div class="ad-placement" id="blocker_checker"></div>
+
+<div id="ts_form_val" data-value="title"></div>
+<script>
+
+
+
+
+
+
+
+
+var savedsearchesurl = "https://www.alio.lt/public/savedsearches/blocks.html";var savedSearch_delete_uri = 'https://www.alio.lt/public/savedsearches/deletesearch.html';var title_var = true;
+var listviewC = '//g4.acdn.lt/aws1/log/log.php';
+var searchSuggestion_url = 'https://www.alio.lt/searchSuggestion.html';
+var searchUserValueDelete_url = 'https://www.alio.lt/public/textSearch/deleteSearchUserValue.html';
+
+var login_url = 'https://www.alio.lt/prisijungimas.html';
+var chatPrivatesBu_url = 'https://www.alio.lt/livechat_privateChatsBu.html';
+var chatPrivatesSe_url = 'https://www.alio.lt/livechat_privateChatsSe.html';
+var chatPrivatesSeList_url = 'https://www.alio.lt/livechat_privateChatsSeList.html';
+var chatPrivateBu_url = 'https://www.alio.lt/livechat_privateChatBu.html';
+var chatPrivateSe_url = 'https://www.alio.lt/livechat_privateChatSe.html';
+var chatDelete_url = 'https://www.alio.lt/livechat_delete.html';
+var chatAddMsg_url = 'https://www.alio.lt/livechat_addMessage.html';
+var chatRefresh_url = 'https://www.alio.lt/livechat_privateChatRefresh.html';
+var chatTotal_url = 'https://www.alio.lt/checkTotal.html';
+var chatPrevMsg_url = 'https://www.alio.lt/livechat_previousMessages.html';
+var find_by_position = 'https://www.alio.lt/public/advertisement/getDataByPosition.html';
+
+var validateSearchUri = "https://www.alio.lt/pub/search/time.php";
+
+//var category_native_icons = "https://www.alio.lt/pub/css/category_icons.css?v=0731";
+
+var ALIO_URL = {
+  address_getSimple: 'https://www.alio.lt/addressgetSimple.html?search=1',
+  address_getSimple2: 'https://www.alio.lt/addressgetSimple2.html?search=1',
+  address_getSimpleSeparate: 'https://www.alio.lt/getSimpleSeparate.html?search=1',
+}
+var MINIMAL_ID_VALUE = 100000000;
+
+</script>
+
+
+<script type="text/javascript">
+
+var script;
+var headv = document.head || document.getElementsByTagName("head")[0];
+var js_footer_files = ["https://g2.acdn.lt/js/jstitle.php?11263512429"];
+var jsflen;
+
+for (var i = 0, jsflen = js_footer_files.length; i < jsflen; i++)
+{
+  script = document.createElement('script');
+  script.src = js_footer_files[i];
+  script.async = false;
+  headv.appendChild(script);
+};
+</script>
+
+
+
+
+
+
+
+    <script>
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+    </script>
+    
+<div id="scrollUp" class="notactive noselect" onclick="topFunction()">Į viršų</div>
+
+
+<style>
+  #scrollUp.notactive {
+    display: none !important;
+  }
+
+  #scrollUp {
+    position: fixed;
+    bottom: 120px;
+    right: 24px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #1da1f3;
+    color: white;
+    cursor: pointer;
+    padding: 14px;
+    border-radius: 10px;
+    font-size: 18px;
+    z-index: 1;
+  }
+  
+  #scrollUp:hover {
+    background-color: #555;
+  }
+
+
+  @media all and (max-width: 690px) {
+
+    #scrollUp
+    {
+      right: 10px;
+      bottom: 60px;
+      font-size: 13px;
+      padding: 9px;
+    }
+  }
+
+</style>
+
+
+
+
+
+    
+
+			
+		<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'cjfqH4MQP6m8v_i3oXYkzHXn.h5BIqLXPxk3ybZasXr.e7';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='https'; gt.setAttribute('async','async');
+	gt.setAttribute('defer','defer'); gt.src=l+'://galt.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+
+
+  </body>
+</html>
